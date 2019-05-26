@@ -14,4 +14,7 @@ StudentModel
 $ pycase StudentModel
 student_model
 
+或者：
+$ python -m pycase student_model
+StudentModel
 ```
