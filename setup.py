@@ -9,7 +9,7 @@ from setuptools import setup, find_packages
 打包的用的setup必须引入，
 """
 
-VERSION = '0.0.2'
+VERSION = '0.0.3'
 
 setup(name='pycase',
       version=VERSION,
